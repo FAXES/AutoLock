@@ -13,8 +13,6 @@ This script allows users to be able to have their LEO cars automatically lock wh
 
 **Credits:**
 - FAXES
-- Astra
-- IllusiveTea
 
 <br />
 
