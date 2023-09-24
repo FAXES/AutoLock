@@ -1,10 +1,14 @@
 ### 📠 [Auto Lock][5mlink] 📠
 
 [![Discord](https://faxes.zone/i/9wkr3.png)](https://faxes.zone/discord)
-
 ----
 
 This script allows users to be able to have their LEO cars automatically lock when they're a certain distance from their vehicle. This ensures LEO vehicles have a lesser chance of being stolen.
+
+**Preview:**
+https://streamable.com/z0ytrv
+
+
 
 **Documentation:**
 - [FAXES Documentation Site](https://docs.faxes.zone/docs)
